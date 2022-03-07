@@ -1,0 +1,28 @@
+main {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    padding: 60px 40px;
+}
+
+.main--title {
+    font-weight: 700;
+    font-size: 32px;
+   
+}
+
+.main--list {
+    margin-top: 20px;
+    padding: 0px 20px;
+    
+}
+
+.main--list > li {
+    line-height: 19px;
+    padding-block: 10px;
+}
+
+.main--list > li::marker {
+    font-size: 1.4rem;
+    color: #61DAFB;
+}

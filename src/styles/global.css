@@ -4,6 +4,8 @@
     padding: 0;
 }
 
-html {
-    font-family: 'Inter', sans-serif;;
+html, body {
+    font-family: 'Inter', sans-serif;
+    height: 100%;
+    background-color: #33373E;
 }
