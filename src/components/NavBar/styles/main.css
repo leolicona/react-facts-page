@@ -1,0 +1,19 @@
+.nav {
+    display: flex;
+    align-items: center;
+    background-color: #21222A;
+    padding: 40px 20px;
+}
+
+.nav--logo {
+    height: 40px;
+}
+
+.nav--name {
+    color: #00D8FF;
+}
+
+.nav--description{
+    margin-left: auto ;
+    color: white;
+}
